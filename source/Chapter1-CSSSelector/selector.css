@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 1em auto;
+    width: 500px;
+
+}
+main {
+    display: block;
+    padding: 1em;
+	border: 2px solid black;
+}
+h1 {
+	margin: 0 0 .25em;	
+}
+p {
+	margin: .25em 0 .25em 3em;
+}
+
+#copyleft {
+	font-size: 90%;
+}
+
+.blue {
+	color: blue;
+}
+
+.right {
+	text-align: right;
+}
