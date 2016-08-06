@@ -1,4 +1,4 @@
-<h2>Subchapter 1 : Apa itu jQuery?<h2>
+<h2>Subchapter 1 : Apa itu jQuery?</h2>
 
 <p>jQuery adalah sebuah javascript library yang menyediakan banyak sekali method yang bisa langsung kita gunakan untuk mempermudah pemograman javascript. jQuery adalah project open source yang dibuat oleh John Resig dan jQuery Team.[1] Sebelum jQuery dirilis ke publik seluruh method ditulis dan diuji untuk memastikan kemampuan cross-browser berjalan sepenuhnya diseluruh browser tanpa mengalami bug.</p>
 
