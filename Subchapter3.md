@@ -1,12 +1,15 @@
 <h2>Subchapter 3 : Apa itu client-side processing?</h2>
 
 <p>Javascript adalah scripting language yang bisa dan awalnya digunakan sebagai client-side processing. Dengan javascript kita bisa mengubah suatu halaman secara langsung pada browser client menjadi dinamis tanpa memerlukan server-side processing. Namun hari ini javascript sudah berevolusi, ia tidak hanya digunakan untuk client-side processing namun juga bisa digunakan sebagai server-side processing semenjak ada node.js. Pada buku ini kita tidak akan membahas node.js, mungkin nanti saya akan menulis ebook tentang node.js </p>
+
 <p>Saat kita membuat sebuah javascript application kita pasti menggunakan HTML (Hyper Text Markup Language) untuk mengatur konten dan struktur, selanjutnya kita pasti menggunakan CSS (Cascading Style Sheet) untuk memberi format pada konten dan terakhir dengan javascript kita bisa melakukan client-side processing.</p>
+
 <p>Hal pertama yang akan kita lakukan dengan client-side processing adalah melakukan data validation. Apa itu data validation? Kita akan mempelajarinya sekarang dengan membuat sebuah interface sederhana untuk mempraktekan data validation. Di bawah ini adalah tampilan interface yang akan kita gunakan untuk melakukan data validation:</p>
 
 <img src="https://github.com/PUSRISTEK/learning-jQuery/blob/master/images/1.2.4%20Interface%20untuk%20Data%20Validation.png">
 
 <p>Pada interface diatas terdapat 3 kolom entry yang harus kita isi kemudian menekan tombol gabung. Bintang asterisk berwarna merah menunjukan bahwa kolom entry tersebut wajib diisi sebelum menekan tombol gabung. Ketika tombol gabung di tekan javascript akan memeriksa apakah data sudah valid atau belum. Jika belum valid informasi pemberitahuan untuk validasi akan muncul.</p>
+
 <p>Dibawah ini adalah kode index.HTML untuk membuat interface :</p>
 
 ```html
@@ -42,7 +45,8 @@
 </HTML>
 ```
 
-<p>Pada kode HTML diatas diawali dengan deklarasi <!DOCTYPE HTML>, artinya kita akan menggunakan HTML 5. Selanjutnya kita membuat meta tag menggunakan UTF-8 (sebuah character encoding untuk halaman). Di dalam head section kita menyimpan format CSS dan script untuk melakukan client-side processing secara eksternal. Di dalam body section kita menggunakan main tag sebuah tag dalam HTML 5 yang akan sering kita gunakan. Di dalamnya terdapat beberapa tag lainya seperti <h1>, <span>, <label> dan sebagainya. </p>
+<p>Pada kode HTML diatas diawali dengan deklarasi <!DOCTYPE HTML>, artinya kita akan menggunakan HTML 5. Selanjutnya kita membuat meta tag menggunakan UTF-8 (sebuah character encoding untuk halaman). Di dalam head section kita menyimpan format CSS dan script untuk melakukan client-side processing secara eksternal. Di dalam body section kita menggunakan main tag sebuah tag dalam HTML 5 yang akan sering kita gunakan. Di dalamnya terdapat beberapa tag lainya seperti h1, span, label dan sebagainya. </p>
+
 <p>Satu lagi ada perbedaan yang harus kita ingat kembali antara tag dan element.
 <label> nama : </label>
 </p>
