@@ -15,7 +15,10 @@
 <ul>
 <li><i>Subchapter</i> 1 - Apa itu <i>Javascript & Ecmascript</i>?</li>
 <li><i>Subchapter</i> 2 - Apa itu <i>Web Console</i>?</li>
-<li><i>Subchapter</i> 3 - <i>Data Types</i> pada <i>Javascript</i></li>
-<li><i>Subchapter</i> 4 - <i>Variable Declaration</i> Pada <i>Javascript</i>
-<li><i>Subchapter</i> 5 - </li>
+<li><i>Subchapter</i> 3 - <i>Variable Declaration</i> Pada <i>Javascript</i>
+<li><i>Subchapter</i> 4 - <i>Data Types</i> pada <i>Javascript</i></li>
+<li><i>Subchapter</i> 5 - <i>Javascript Control Flow</i></li>
+<li><i>Subchapter</i> 6 - <i>Javascript Loop & Iteration</i></li>
+<li><i>Subchapter</i> 7 - <i>Javascript Function</i></li>
+<li><i>Subchapter</i> 8 - <i>Mengenal underscore.js</i></li>
 </ul>
