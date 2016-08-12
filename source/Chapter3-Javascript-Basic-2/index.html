@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<img id="myImage" onclick="ubahGambar()" src="maudy1.png" width="auto" height="auto">
+
+<p>Klik foto Maudy Ayunda untuk mengganti foto</p>
+
+<script>
+function ubahGambar() {
+    var image = document.getElementById('myImage');
+    if (image.src.match("maudy2")) {
+        image.src = "maudy1.png";
+    } else {
+        image.src = "maudy2.png";
+    }
+}
+</script>
+
+</body>
+</html>
