@@ -19,6 +19,7 @@
 <li><i>Subchapter</i> 4 - <i>Data Types</i> pada <i>Javascript</i></li>
 <li><i>Subchapter</i> 5 - <i>Javascript Control Flow</i></li>
 <li><i>Subchapter</i> 6 - <i>Javascript Loop & Iteration</i></li>
-<li><i>Subchapter</i> 7 - <i>Javascript Function</i></li>
-<li><i>Subchapter</i> 8 - <i>Mengenal underscore.js</i></li>
+<li><i>Subchapter</i> 7 - <i>Javascript Array</i></li>
+<li><i>Subchapter</i> 8 - <i>Javascript Function</i></li>
+<li><i>Subchapter</i> 9 - <i>Mengenal underscore.js</i></li>
 </ul>
