@@ -11,7 +11,7 @@
 <li><i>Subchapter</i> 5 - Bagaimana menguji <i>Javascript Application</i></li>
 <li><i>Subchapter</i> 6 - Apa itu <i>Javascript Shiv</i></li>
 </ul>
-<h1><i>Chapter 2</i> - Mengenal Lebih Dalam <i>Javascript</i></h1>
+<h1><i>Chapter 2</i> - Mengenal <i>Native Javascript</i></h1>
 <ul>
 <li><i>Subchapter</i> 1 - Apa itu <i>Javascript & Ecmascript</i>?</li>
 <li><i>Subchapter</i> 2 - Apa itu <i>Web Console</i>?</li>
@@ -22,4 +22,9 @@
 <li><i>Subchapter</i> 7 - <i>Javascript Array</i></li>
 <li><i>Subchapter</i> 8 - <i>Javascript Function</i></li>
 <li><i>Subchapter</i> 9 - <i>Mengenal underscore.js</i></li>
+</ul>
+<h1><i>Chapter 2</i> - <i>Subset Javascript</i> untuk <i>jQuery</i></h1>
+<ul>
+<li><i>Subchapter</i> 1 - <i>Javascript & HTML</i></li>
+<li><i>Subchapter</i> 2 - <i>Javascript Object on HTML</i></li>
 </ul>
