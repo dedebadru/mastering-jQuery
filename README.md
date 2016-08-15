@@ -23,8 +23,9 @@
 <li><i>Subchapter</i> 8 - <i>Javascript Function</i></li>
 <li><i>Subchapter</i> 9 - <i>Mengenal underscore.js</i></li>
 </ul>
-<h1><i>Chapter 2</i> - <i>Subset Javascript</i> untuk <i>jQuery</i></h1>
+<h1><i>Chapter 3</i> - <i>Subset Javascript</i> untuk <i>jQuery</i></h1>
 <ul>
 <li><i>Subchapter</i> 1 - <i>Javascript & HTML</i></li>
 <li><i>Subchapter</i> 2 - <i>Javascript Object on HTML</i></li>
+<li><i>Subchapter</i> 3 - <i>Apa itu DOM</i>?</li>
 </ul>
