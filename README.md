@@ -1,5 +1,5 @@
 # learning-jQuery
-
+<img src ="https://github.com/PUSRISTEK/learning-jQuery/blob/master/images/cover.jpg">
 <p>Baca prepare.md sebelum mempelajari ebook ini..</p>
 
 <h1><i>Chapter</i> 1 - Mengenal <i>Web Development</i></h1>
