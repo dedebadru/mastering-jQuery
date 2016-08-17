@@ -1,0 +1,46 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+    <title>Accordion</title>
+    <!-- jQuery UI style sheet -->
+    <link rel="stylesheet" href="jquery-ui.min.css">
+    <!-- normal style sheet used for layout and general formatting -->
+	<link rel="stylesheet" href="main.css">
+    <!-- jQuery library -->
+    <script src="jquery-3.1.0.min.js"></script>
+    <!-- jQuery UI library -->
+	<script src="jquery-ui.min.js"></script>
+    <!-- jQuery call to the accordion() method -->
+    <script>
+    	$(document).ready(function() {
+			$("#accordion").accordion();
+	    });
+	</script>
+</head>
+
+<body>
+    <main>
+        <h1>jQuery FAQs</h1>       
+        <div id="accordion">
+ 			<h3>Apa itu JavaScript?</h3>
+			<div>
+				<p>Javascript adalah salah satu bahasa pemograman yang  
+			bisa digunakan untuk membuat web application, aplikasi di server, aplikasi di PC, Tablet, 
+			Smartphone hingga ke microcontroller.
+				</p>
+			</div>
+			<h3>Apa itu jQuery?</h3>
+			<div>
+				<p>jQuery adalah sebuah Javascript library yang menyediakan banyak sekali method yang bisa 
+			 kita gunakan untuk mempermudah pemograman Javascript. 
+            </p>
+			</div>
+			<h3>Apa itu DOM?</h3>
+			<div>
+				<p>Sebuah bahasa netral yang dapat yang mengizinkan javascript atau script lainya mampu mengakses dan mengubah contents, structures dan style dari sebuah document. </p>
+			</div>
+        </div>
+    </main>
+</body>
+</html>
