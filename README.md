@@ -29,4 +29,5 @@
 <li><i>Subchapter</i> 2 - <i>Javascript Object on HTML</i></li>
 <li><i>Subchapter</i> 3 - <i>Apa itu DOM</i>?</li>
 <li><i>Subchapter</i> 4 - Bermain dengan <i>jQuery</i></li>
+<li><i>Subchapter</i> 5 - Animasi dengan <i>jQuery</i></li>
 </ul>
