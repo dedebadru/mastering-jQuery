@@ -4,10 +4,26 @@
 
 <h1><i>Chapter</i> 1 - Mengenal <i>Web Development</i></h1>
 <ul>
-<li><i>Subchapter</i> 1 - Apa itu <i>jQuery</i>?</li>
+<li><i>Subchapter</i> 1 - Apa itu <i>jQuery</i>?
+<ul>
+<li> - 1. Web Resources</li>
+<li> - 2. Book Resources</li>
+<li> - 3. Video Course</li>
+<li> - 4. Other Resources</li>
+</ul>
+</li>
 <li><i>Subchapter</i> 2 - Seperti apa cara kerja <i>Web Application</i>?</li>
+<ul>
+<li></li>
+</ul>
 <li><i>Subchapter</i> 3 - Apa itu <i>Client-Side Processing</i>?</li>
-<li><i>Subchapter</i> 4 - <i>Quick Fighting</i> dengan HTML 5 dan CSS 3</li>
+<li><i>Subchapter</i> 4 - <i>Quick Fighting</i> dengan HTML dan CSS</li>
+<ul>
+<li> - 1. HTML 5 Semantic Elements</li>
+<li> - 2. HTML Attributes</li>
+<li> - 3. Cascading Stylesheet</li>
+<li> - 4. CSS Selector</li>
+</ul>
 <li><i>Subchapter</i> 5 - Mengenal <i>Front-End Web Framework</i><ul>
 <li> - 1. Bootstrap With Google Material Design</li>
 <li> - 2. HTML 5 Boilerplate</li>
@@ -21,12 +37,49 @@
 <h1><i>Chapter 2</i> - Mengenal <i>Native Javascript</i></h1>
 <ul>
 <li><i>Subchapter</i> 1 - Apa itu <i>Javascript & Ecmascript</i>?</li>
-<li><i>Subchapter</i> 2 - <i>Javascript REPL</i>?</li>
+<li><i>Subchapter</i> 2 - <i>Javascript REPL</i></li>
+<ul>
+<li> - 1. Node.js</li>
+<li> - 2. JSBin</li>
+<li> - 3. WebConsole</li>
+<li> - 4. ScratchPad</li>
+<li> - 5. Comment</li>
+</ul>
 <li><i>Subchapter</i> 3 - <i>Variable Declaration</i> Pada <i>Javascript</i>
+<ul>
+<li> - 1. Keyword Var</li>
+<li> - 2. Keyword Let</li>
+<li> - 3. Keyword Constant</li>
+</ul>
 <li><i>Subchapter</i> 4 - <i>Data Types</i> pada <i>Javascript</i></li>
+<ul>
+<li> - 1. Data Types Conversion</li>
+<li> - 2. Javascript Number</li>
+<li> - 3. Javascript String</li>
+<li> - 4. Javascript Booleans</li>
+<li> - 5. Javascript Null</li>
+<li> - 6. Javascript Undefined</li>
+<li> - 7. Javascript Symbol</li>
+<li> - 8. Javascript Object</li>
+</ul>
 <li><i>Subchapter</i> 5 - <i>Javascript Control Flow</i></li>
 <li><i>Subchapter</i> 6 - <i>Javascript Loop & Iteration</i></li>
-<li><i>Subchapter</i> 7 - <i>Javascript Array</i></li>
+<li><i>Subchapter</i> 7 - <i>Javascript Array</i>
+<ul>
+<li> - 1. <i>Regular Way</i></li>
+<li> - 2. <i>Condensed Way</i></li>
+<li> - 3. <i>Literal Way</i></li>
+<li> - 4. <i>Access an Array</i></li>
+<li> - 5. <i>Loop over an Array</i></li>
+<li> - 6. <i>Push Array</i></li>
+<li> - 7. <i>Pop Array</i></li>
+<li> - 8. <i>Shift Array</i></li>
+<li> - 9. <i>Unshift Array</i></li>
+<li> - 10. <i>Find Index Array</i></li>
+<li> - 11. <i>Remove Item by Index</i></li>
+<li> - 12. <i>Copy an Array</i></li>
+</ul>
+</li>
 <li><i>Subchapter</i> 8 - <i>Javascript Function</i></li>
 <li><i>Subchapter</i> 9 - <i>Mengenal underscore.js</i></li>
 </ul>
