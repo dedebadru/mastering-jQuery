@@ -8,8 +8,15 @@
 <li><i>Subchapter</i> 2 - Seperti apa cara kerja <i>Web Application</i>?</li>
 <li><i>Subchapter</i> 3 - Apa itu <i>Client-Side Processing</i>?</li>
 <li><i>Subchapter</i> 4 - <i>Quick Fighting</i> dengan HTML 5 dan CSS 3</li>
-<li><i>Subchapter</i> 5 - Bagaimana menguji <i>Javascript Application</i></li>
-<li><i>Subchapter</i> 6 - Apa itu <i>Javascript Shiv</i></li>
+<li><i>Subchapter</i> 5 - Mengenal <i>Front-End Web Framework</i>
+- 1. Bootstrap With Google Material Design
+- 2. HTML 5 Boilerplate
+- 3. Web Layout dengan Grid System
+- 4. Mengatur Predefined Class Row & Column
+- 5. HTML Color Cheatsheet
+</li>
+<li><i>Subchapter</i> 6 - Bagaimana menguji <i>Javascript Application</i></li>
+<li><i>Subchapter</i> 7 - Apa itu <i>Javascript Shiv</i></li>
 </ul>
 <h1><i>Chapter 2</i> - Mengenal <i>Native Javascript</i></h1>
 <ul>
