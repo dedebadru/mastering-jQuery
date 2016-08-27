@@ -14,7 +14,9 @@
 </li>
 <li><i>Subchapter</i> 2 - Seperti apa cara kerja <i>Web Application</i>?</li>
 <ul>
-<li></li>
+<li> - 1. Client & Server</li>
+<li> - 2. Static Web Page</li>
+<li> - 3. Dynamic Web Page</li>
 </ul>
 <li><i>Subchapter</i> 3 - Apa itu <i>Client-Side Processing</i>?</li>
 <li><i>Subchapter</i> 4 - <i>Quick Fighting</i> dengan HTML dan CSS</li>
@@ -62,8 +64,19 @@
 <li> - 7. Javascript Symbol</li>
 <li> - 8. Javascript Object</li>
 </ul>
-<li><i>Subchapter</i> 5 - <i>Javascript Control Flow</i></li>
-<li><i>Subchapter</i> 6 - <i>Javascript Loop & Iteration</i></li>
+<li><i>Subchapter</i> 5 - <i>Javascript Control Flow</i>
+<ul>
+<li> - 1. Block Statement</li>
+<li> - 2. Conditional Statement</li>
+</ul>
+</li>
+<li><i>Subchapter</i> 6 - <i>Javascript Loop & Iteration</i>
+<ul>
+<li> - 1. For Statement</li>
+<li> - 2. Do ... While Statement</li>
+<li> - 3. While Statement</li>
+</ul>
+</li>
 <li><i>Subchapter</i> 7 - <i>Javascript Array</i>
 <ul>
 <li> - 1. <i>Regular Way</i></li>
@@ -85,9 +98,34 @@
 </ul>
 <h1><i>Chapter 3</i> - <i>Subset Javascript</i> untuk <i>jQuery</i></h1>
 <ul>
-<li><i>Subchapter</i> 1 - <i>Javascript & HTML</i></li>
-<li><i>Subchapter</i> 2 - <i>Javascript Object on HTML</i></li>
-<li><i>Subchapter</i> 3 - <i>Apa itu DOM</i>?</li>
+<li><i>Subchapter</i> 1 - <i>Javascript & HTML</i>
+<ul>
+<li> - 1. Change HTML Content</li>
+<li> - 2. Change HTML Attribute</li>
+<li> - 3. Change HTML Style</li>
+</ul>
+</li>
+<li><i>Subchapter</i> 2 - <i>Javascript Object on HTML</i>
+<ul>
+<li> - 1. Window Object on HTML</li>
+<li> - 2. Document Object on HTML</li>
+<li> - 3. Date & String Object on HTML</li>
+</ul>
+</li>
+<li><i>Subchapter</i> 3 - <i>Apa itu DOM</i>?
+<ul>
+<li> - 1. Mailing List Application</li>
+<li> - 2. FAQs Application</li>
+<li> - 3. Image Swap Application</li>
+</ul>
+</li>
 <li><i>Subchapter</i> 4 - Bermain dengan <i>jQuery</i></li>
 <li><i>Subchapter</i> 5 - Animasi dengan <i>jQuery</i></li>
+</ul>
+
+## To do
+<ul>
+<li>Add offset Class on subchapter 4</li>
+<li>Add Push & Pull Class on shubchapter 4</li>
+<li>Add Clearfix Class on subchapter 4</li>
 </ul>
