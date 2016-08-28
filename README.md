@@ -6,32 +6,35 @@
 <ul>
 <li><i>Subchapter</i> 1 - Apa itu <i>jQuery</i>?
 <ul>
-<li> - 1. Web Resources</li>
-<li> - 2. Book Resources</li>
-<li> - 3. Video Course</li>
-<li> - 4. Other Resources</li>
+<li> - 1. <i>Web Resources</i></li>
+<li> - 2. <i>Book Resources</i></li>
+<li> - 3. <i>Video Course</i></li>
+<li> - 4. <i>Other Resources</i></li>
 </ul>
 </li>
 <li><i>Subchapter</i> 2 - Seperti apa cara kerja <i>Web Application</i>?</li>
 <ul>
-<li> - 1. Client & Server</li>
-<li> - 2. Static Web Page</li>
-<li> - 3. Dynamic Web Page</li>
+<li> - 1. <i>Client & Server</i></li>
+<li> - 2. <i>Static Web Page</i></li>
+<li> - 3. <i>Dynamic Web Page</i></li>
 </ul>
 <li><i>Subchapter</i> 3 - Apa itu <i>Client-Side Processing</i>?</li>
 <li><i>Subchapter</i> 4 - <i>Quick Fighting</i> dengan HTML dan CSS</li>
 <ul>
-<li> - 1. HTML 5 Semantic Elements</li>
-<li> - 2. HTML Attributes</li>
-<li> - 3. Cascading Stylesheet</li>
-<li> - 4. CSS Selector</li>
+<li> - 1. <i>HTML 5 Semantic Elements</i></li>
+<li> - 2. <i>HTML Attributes</i></li>
+<li> - 3. <i>Cascading Stylesheet</i></li>
+<li> - 4. <i>CSS Selector</i></li>
+<li> - 5. <i>HTML & CSS Cheatsheet</i></li>
 </ul>
 <li><i>Subchapter</i> 5 - Mengenal <i>Front-End Web Framework</i><ul>
-<li> - 1. Bootstrap With Google Material Design</li>
-<li> - 2. HTML 5 Boilerplate</li>
-<li> - 3. Web Layout dengan Grid System</li>
-<li> - 4. Mengatur Predefined Class Row & Column</li>
-<li> - 5. HTML Color Cheatsheet</li>
+<li> - 1. <i>Bootstrap With Google Material Design</i></li>
+<li> - 2. <i>HTML 5 Boilerplate</i></li>
+<li> - 3. <i>Web Layout</i> dengan <i>Grid System</i></li>
+<li> - 4. Mengatur <i>Predefined Class Row & Column</i></li>
+<li> - 5. <i>HTML Color Cheatsheet</i></li>
+<li> - 6. <i>Typography</i></li>
+<li> - 7. Bermain dengan <i>Table</i></li>
 </li></ul>
 <li><i>Subchapter</i> 6 - Bagaimana menguji <i>Javascript Application</i></li>
 <li><i>Subchapter</i> 7 - Apa itu <i>Javascript Shiv</i></li>
@@ -41,40 +44,40 @@
 <li><i>Subchapter</i> 1 - Apa itu <i>Javascript & Ecmascript</i>?</li>
 <li><i>Subchapter</i> 2 - <i>Javascript REPL</i></li>
 <ul>
-<li> - 1. Node.js</li>
-<li> - 2. JSBin</li>
-<li> - 3. WebConsole</li>
-<li> - 4. ScratchPad</li>
-<li> - 5. Comment</li>
+<li> - 1. <i>Node.js</i></li>
+<li> - 2. <i>JSBin</i></li>
+<li> - 3. <i>WebConsole</i></li>
+<li> - 4. <i>ScratchPad</i></li>
+<li> - 5. <i>Comment</i></li>
 </ul>
 <li><i>Subchapter</i> 3 - <i>Variable Declaration</i> Pada <i>Javascript</i>
 <ul>
-<li> - 1. Keyword Var</li>
-<li> - 2. Keyword Let</li>
-<li> - 3. Keyword Constant</li>
+<li> - 1. <i>Keyword Var</i></li>
+<li> - 2. <i>Keyword Let</i></li>
+<li> - 3. <i>Keyword Constant</i></li>
 </ul>
 <li><i>Subchapter</i> 4 - <i>Data Types</i> pada <i>Javascript</i></li>
 <ul>
-<li> - 1. Data Types Conversion</li>
-<li> - 2. Javascript Number</li>
-<li> - 3. Javascript String</li>
-<li> - 4. Javascript Booleans</li>
-<li> - 5. Javascript Null</li>
-<li> - 6. Javascript Undefined</li>
-<li> - 7. Javascript Symbol</li>
-<li> - 8. Javascript Object</li>
+<li> - 1. <i>Data Types Conversion</i></li>
+<li> - 2. <i>Javascript Number</i></li>
+<li> - 3. <i>Javascript String</i></li>
+<li> - 4. <i>Javascript Booleans</i></li>
+<li> - 5. <i>Javascript Null</i></li>
+<li> - 6. <i>Javascript Undefined</i></li>
+<li> - 7. <i>Javascript Symbol</i></li>
+<li> - 8. <i>Javascript Object</i></li>
 </ul>
 <li><i>Subchapter</i> 5 - <i>Javascript Control Flow</i>
 <ul>
-<li> - 1. Block Statement</li>
-<li> - 2. Conditional Statement</li>
+<li> - 1. <i>Block Statement</i></li>
+<li> - 2. <i>Conditional Statement</i></li>
 </ul>
 </li>
 <li><i>Subchapter</i> 6 - <i>Javascript Loop & Iteration</i>
 <ul>
-<li> - 1. For Statement</li>
-<li> - 2. Do ... While Statement</li>
-<li> - 3. While Statement</li>
+<li> - 1. <i>For Statement</i></li>
+<li> - 2. <i>Do ... While Statement</i></li>
+<li> - 3. <i>While Statement</i></li>
 </ul>
 </li>
 <li><i>Subchapter</i> 7 - <i>Javascript Array</i>
@@ -100,27 +103,45 @@
 <ul>
 <li><i>Subchapter</i> 1 - <i>Javascript & HTML</i>
 <ul>
-<li> - 1. Change HTML Content</li>
-<li> - 2. Change HTML Attribute</li>
-<li> - 3. Change HTML Style</li>
+<li> - 1. <i>Change HTML Content</i></li>
+<li> - 2. <i>Change HTML Attribute</i></li>
+<li> - 3. <i>Change HTML Style</i></li>
 </ul>
 </li>
 <li><i>Subchapter</i> 2 - <i>Javascript Object on HTML</i>
 <ul>
-<li> - 1. Window Object on HTML</li>
-<li> - 2. Document Object on HTML</li>
-<li> - 3. Date & String Object on HTML</li>
+<li> - 1. <i>Window Object on HTML</i></li>
+<li> - 2. <i>Document Object on HTML</i></li>
+<li> - 3. <i>Date & String Object on HTML</i></li>
 </ul>
 </li>
 <li><i>Subchapter</i> 3 - <i>Apa itu DOM</i>?
 <ul>
-<li> - 1. Mailing List Application</li>
-<li> - 2. FAQs Application</li>
-<li> - 3. Image Swap Application</li>
+<li> - 1. <i>Mailing List Application</i></li>
+<li> - 2. <i>FAQs Application</i></li>
+<li> - 3. <i>Image Swap Application</i></li>
 </ul>
 </li>
-<li><i>Subchapter</i> 4 - Bermain dengan <i>jQuery</i></li>
-<li><i>Subchapter</i> 5 - Animasi dengan <i>jQuery</i></li>
+<li><i>Subchapter</i> 4 - Bermain dengan <i>jQuery</i>
+<ul>
+<li> - 1. <i>Download jQuery</i> </li>
+<li> - 2. Menggunakan <i>jQuery Selector</i> </li>
+<li> - 3. Menggunakan <i>jQuery Method</i> </li>
+<li> - 4. Menggunakan <i>jQuery Event Methods</i> </li>
+<li> - 5. <i>FAQs Application</i> dengan <i>jQuery</i> </li>
+<li> - 6. <i>FAQs Application</i> dengan <i>jQuery UI</i> </li>
+<li> - 7. <i>Mailing List Application</i> dengan <i>jQuery</i> </li>
+<li> - 8. <i>Image Swap</i> dengan <i>jQuery</i> </li>
+</ul>
+</li>
+<li><i>Subchapter</i> 5 - Animasi dengan <i>jQuery</i>
+<ul>
+<li> - 1. Cara Menggunakan Efek <i>jQuery</i></li>
+<li> - 2. <i>Slideshow Application</i> dengan <i>jQuery</i></li>
+<li> - 3. <i>Start & Stop Slideshow</i></li>
+<li> - 4. Cara Menggunakan <i>Animation</i></li>
+</ul>
+</li>
 </ul>
 
 ## To do
