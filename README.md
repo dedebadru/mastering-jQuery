@@ -35,7 +35,7 @@
 <li> - 5. <i>HTML Color Cheatsheet</i></li>
 <li> - 6. <i>Typography</i></li>
 <li> - 7. Bermain dengan <i>Table</i></li>
-<li> - 8. Bermain dengan <i>Image</i></li>
+<li> - 8. <i>Image & Media Lightbox</i></li>
 </li></ul>
 <li><i>Subchapter</i> 6 - Bagaimana menguji <i>Javascript Application</i></li>
 <li><i>Subchapter</i> 7 - Apa itu <i>Javascript Shiv</i></li>
@@ -150,4 +150,10 @@
 <li>Add offset Class on subchapter 4</li>
 <li>Add Push & Pull Class on shubchapter 4</li>
 <li>Add Clearfix Class on subchapter 4</li>
+<li>Add Good Bootstrap Table Extension</li>
+<li>Track All Reference Error on Subchapter >5</li>
 </ul>
+
+## Done
+
+<li>~~Solving Reference Error on Subchapter 5, Image & Media Lightbox~~</li>
