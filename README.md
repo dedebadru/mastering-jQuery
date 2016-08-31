@@ -35,7 +35,7 @@
 <li> - 5. <i>HTML Color Cheatsheet</i></li>
 <li> - 6. <i>Typography</i></li>
 <li> - 7. Bermain dengan <i>Table</i></li>
-<li> - 8. <i>Image & Media Lightbox</i></li>
+<li> - 8. <i>Image & Lightbox</i></li>
 </li></ul>
 <li><i>Subchapter</i> 6 - Bagaimana menguji <i>Javascript Application</i></li>
 <li><i>Subchapter</i> 7 - Apa itu <i>Javascript Shiv</i></li>
