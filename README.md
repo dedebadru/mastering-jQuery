@@ -34,7 +34,7 @@
 <li> - 4. Mengatur <i>Predefined Class Row & Column</i></li>
 <li> - 5. <i>HTML Color Cheatsheet</i></li>
 <li> - 6. <i>Typography</i></li>
-<li> - 7. Bermain dengan <i>Table</i></li>
+<li> - 7. <i>Table & Pagination</i></li>
 <li> - 8. <i>Image & Lightbox</i></li>
 </li></ul>
 <li><i>Subchapter</i> 6 - Bagaimana menguji <i>Javascript Application</i></li>
@@ -156,4 +156,4 @@
 
 ## Done
 
-<li>~~Solving Reference Error on Subchapter 5, Image & Media Lightbox~~</li>
+<li>~~Solving Reference Error on Subchapter 5, Image & Lightbox~~</li>
