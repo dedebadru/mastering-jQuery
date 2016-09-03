@@ -9,7 +9,7 @@
 <li> - 1. <i>Web Resources</i></li>
 <li> - 2. <i>Book Resources</i></li>
 <li> - 3. <i>Video Course</i></li>
-<li> - 4. <i>Other Resources</i></li>
+<li> - 4. <i>Other Resources</i></li>ll
 </ul>
 </li>
 <li><i>Subchapter</i> 2 - Seperti apa cara kerja <i>Web Application</i>?</li>
