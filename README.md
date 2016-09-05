@@ -4,7 +4,7 @@
 
 <h1><i>Chapter</i> 1 - Mengenal <i>Web Development</i></h1>
 <ul>
-<li><i>Subchapter</i> 1 - Apa itu <i>jQuery</i>?l
+<li><i>Subchapter</i> 1 - Apa itu <i>jQuery</i>?
 <ul>
 <li> - 1. <i>Web Resources</i></li>
 <li> - 2. <i>Book Resources</i></li>
